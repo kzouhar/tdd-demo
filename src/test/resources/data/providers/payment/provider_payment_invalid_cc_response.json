@@ -1,0 +1,6 @@
+{
+  "status": {
+    "error_code": "ERR_123",
+    "description": "credit card declined"
+  }
+}

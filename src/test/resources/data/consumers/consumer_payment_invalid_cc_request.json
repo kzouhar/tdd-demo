@@ -1,0 +1,9 @@
+{
+  "customerId": "1114",
+  "creditCardNumber": "xxxxxxxx",
+  "expiryDay": "01",
+  "expiryMonth": "12",
+  "securityCode": "123",
+  "paymentMethod" : "CC",
+  "amount" : 200
+}
